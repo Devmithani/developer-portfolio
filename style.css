@@ -1,0 +1,74 @@
+
+
+/* .backgroundnav{
+    background-color: #30009C!important;
+} */
+.backgroundnav{
+border-bottom: solid white 1px;
+}
+.backgroundnav1 i{
+    font-size: 10px;
+}
+.backgroundnav a{
+   padding-bottom: 2px;
+}
+
+.backgroundcolorsec1{
+    width: 100%;
+    height: auto;
+        background-image: linear-gradient(to right, #6200EE , #30009C);
+   
+}
+.backgroundnav a:hover{
+   text-decoration: underline;
+   scale: 1.1;
+}
+
+.icons{
+    margin-top: -40px;
+height: fit-content;
+z-index: 2;
+}
+
+i{
+    font-size: 80px;
+    margin: 2px;
+    z-index: 4;
+
+}
+
+ .icons i:hover{
+    color: rgb(164, 164, 164);
+    cursor: pointer;
+    scale: 1.2;
+    transition: all 0.5s ease-in-out;
+}
+
+.background{
+    background-color: white;
+}
+
+.address i{
+    font-size: 20px;
+}
+
+address a {
+    text-decoration: none;
+    color: black;
+}
+.newbutton{
+    background-color: blueviolet!important;
+}
+.widthfor{
+    width: 350px!important;
+
+}
+.imagenew{
+    width: 100%;
+}
+
+img:hover{
+    box-shadow: rgba(2, 1, 12, 0.937) 0px 25px 50px -12px;
+    scale: 0.9;
+    transition: all 0.3s ease-in-out;
+}
